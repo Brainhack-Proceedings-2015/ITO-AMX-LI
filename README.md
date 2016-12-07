@@ -37,7 +37,7 @@ contrib: KLI and SLL wrote the software,  performed tests, and wrote the report.
   
 bibliography: brainhack-report
 
-gigascience-ref: REFXXX
+gigascience-ref: \href{http://gigadb.org/dataset/100229}{doi:10.5524/100229}
 ...
 
 #Introduction
